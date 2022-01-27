@@ -2,6 +2,6 @@
 An animated Login screen using Animated library from react-native.
 
 
-
+## Update the images!
 ![alt text](https://github.com/joaorjoaquim/animated-login-screen/blob/main/keyboard%20closed.png)
 ![alt text](https://github.com/joaorjoaquim/animated-login-screen/blob/main/keyboard%20open.png)
